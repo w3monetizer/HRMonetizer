@@ -1,4 +1,4 @@
-# Best Practices Monetizer App
+# Enterprise Architecture Monetizer
 
 natural collaboration engine / social monetization protocol - PoC
 
