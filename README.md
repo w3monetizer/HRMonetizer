@@ -1,4 +1,4 @@
-# API Monetizer
+# Education Monetizer
 
 natural collaboration engine / social monetization protocol - PoC
 
