@@ -1,4 +1,4 @@
-# Universal Monetizer App
+# Best Practices Monetizer App
 
 natural collaboration engine / social monetization protocol - PoC
 
