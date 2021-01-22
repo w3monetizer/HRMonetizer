@@ -1,4 +1,4 @@
-# Enterprise Architecture Monetizer
+# API Monetizer
 
 natural collaboration engine / social monetization protocol - PoC
 
