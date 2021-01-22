@@ -1,4 +1,4 @@
-# Certificate Monetizer
+# HR Monetizer
 
 natural collaboration engine / social monetization protocol - PoC
 
